@@ -6,3 +6,4 @@ thanks again.
 This is first line in feature1
 ---EOD---
 this line is to test the branch of the cloned repo
+this line added after first push of the test remote branch
